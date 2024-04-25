@@ -1,8 +1,10 @@
 # Lakshminarayanan (Srinath) Nandakumar
 
-I am a software engineer specializing on building distributed applications and blockchains. 
+I am a software engineer engineer passionate about building distributed applications and exploring blockchain technology. Building things using first principles thinking gives me the most joy and satisfaction. Welcome to my little space where I share and document my personal interests and projects outside of my day job.
 
 ## Github
+
+Please look at my `pinned` repositories to learn more about my current and past personal projects. From time-to-time, I engage in solving coding challenges and  get hands-on developing quick engineering prototypes. 
 
 ### Unpinned Repositories
 
