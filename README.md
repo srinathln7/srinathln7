@@ -10,7 +10,6 @@ Please look at my `pinned` repositories to learn more about my current and past 
 
 * [just-dsa](https://github.com/srinathln7/just-dsa) - Comprises a list of captivating data structures and algorithmic challenges, each accompanied by a meticulously detailed solution explanation.
 
-* [system-design](https://github.com/srinathln7/system-design) - An alternative approach to system design where we go beyond merely drawing bozes and focusing on low-level implementation details of interesting applications and algorithms. 
 
 * [Haskell-for-plutus](https://github.com/srinathln7/Haskell-for-Plutus) - Documenting my personal venture while learning Haskell to write smart contracts on Cardano blockchain.
  
