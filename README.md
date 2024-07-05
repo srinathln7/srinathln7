@@ -1,17 +1,17 @@
 # Lakshminarayanan (Srinath) Nandakumar
 
-I am a software engineer engineer passionate about building distributed applications and exploring blockchain technology. Building things using first principles thinking gives me the most joy and satisfaction. Welcome to my little space where I share and document my personal interests and projects outside of my day job.
+I am a software engineer specializing in the field of Blockchain. Building things using first principles thinking gives me the most joy and satisfaction. Welcome to my little space where I share and document my interests and projects outside my day job.
 
 ## Github
 
-Please look at my `pinned` repositories to learn more about my current and past personal projects. From time-to-time, I engage in solving coding challenges and  get hands-on developing quick engineering prototypes. 
+Please have a look at my `pinned` repositories to learn more about my current and past personal projects. From time to time, I engage in solving coding challenges and  get hands-on developing quick engineering prototypes. 
 
 ### Unpinned Repositories
 
-* [just-dsa](https://github.com/srinathln7/just-dsa) - Comprises a list of captivating data structures and algorithmic challenges, each accompanied by a meticulously detailed solution explanation.
+* [just-dsa](https://github.com/srinathln7/just-dsa) - Comprises captivating data structures and algorithmic challenges, each accompanied by a meticulously detailed solution explanation.
 
 
-* [Haskell-for-plutus](https://github.com/srinathln7/Haskell-for-Plutus) - Documenting my personal venture while learning Haskell to write smart contracts on Cardano blockchain.
+* [Haskell-for-plutus](https://github.com/srinathln7/Haskell-for-Plutus) - Documenting my venture while learning Haskell to write smart contracts on the Cardano blockchain.
  
 
 ## Programming Languages
