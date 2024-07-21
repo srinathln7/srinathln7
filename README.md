@@ -6,10 +6,10 @@ I am a software engineer specializing in the field of Blockchain. Building thing
 
 Please have a look at my `pinned` repositories to learn more about my current and past personal projects. From time to time, I engage in solving coding challenges and  get hands-on developing quick engineering prototypes. 
 
-### Unpinned Repositories
-
+### Other Repos
+Here are a few of my unpinned repositories that you might find interesting and helpful:
 * [merkle-gaurd](https://github.com/srinathln7/merkle-guard) - A cryptographic prototype to verify the integrity of downloaded files from a grpc server using merkle trees
-* [just-dsa](https://github.com/srinathln7/just-dsa) - Comprises captivating data structures and algorithmic challenges, each accompanied by a meticulously detailed solution explanation.
+* [just-dsa](https://github.com/srinathln7/just-dsa) - A collection of engaging data structures and algorithmic challenges, each with a detailed solution explanation.
 * [Haskell-for-plutus](https://github.com/srinathln7/Haskell-for-Plutus) - Documenting my venture while learning Haskell to write smart contracts on the Cardano blockchain.
  
 ## Programming Languages
