@@ -8,7 +8,7 @@ Please have a look at my `pinned` repositories to learn more about my current an
 
 ### Other Repos
 Here are a few of my unpinned repositories that you might find interesting and helpful:
-* [merkle-gaurd](https://github.com/srinathln7/merkle-guard) - A cryptographic prototype to verify the integrity of downloaded files from a grpc server using merkle trees. Currently, this repo is private and will be made public in the future.
+* [merkle-gaurd](https://github.com/srinathln7/merkle-guard) - A cryptographic prototype to verify the integrity of downloaded files from a grpc server using merkle trees. 
 * [just-dsa](https://github.com/srinathln7/just-dsa) - A collection of engaging data structures and algorithmic challenges, each with a detailed solution explanation.
 * [Haskell-for-plutus](https://github.com/srinathln7/Haskell-for-Plutus) - Documenting my venture while learning Haskell to write smart contracts on the Cardano blockchain.
  
