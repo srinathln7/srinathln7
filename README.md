@@ -1,6 +1,6 @@
 # Lakshminarayanan (Srinath) Nandakumar
 
-I am a software engineer specializing in the field of Blockchain. Building things using first principles thinking gives me the most joy and satisfaction. Welcome to my little space where I share and document my interests and projects outside my day job.
+I am a software engineer specializing in the field of Blockchain. Building things using first principles thinking gives me the most joy and satisfaction. Welcome to my little space where I share and document my interests and projects.
 
 ## Github
 
