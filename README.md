@@ -1,6 +1,6 @@
 # Lakshminarayanan (Srinath) Nandakumar
 
-I am a software engineer specializing in the field of Blockchain. Building things using first principles thinking gives me the most joy and satisfaction. Welcome to my little space where I share and document my interests and projects.
+I am a software engineer specializing in the field of Blockchain - currently building Linea ZKEVM @ [Consensys](https://github.com/Consensys). Building things using first principles thinking gives me the most joy and satisfaction. Welcome to my little space where I share and document my personal interests and projects.
 
 ## Github
 
